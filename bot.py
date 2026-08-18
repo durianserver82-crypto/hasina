@@ -13,7 +13,7 @@ print("🚀 বট লোড হচ্ছে...")
 # ============= আপনার ডেটা =============
 BOT_TOKEN = os.environ.get('BOT_TOKEN', "8309942123:AAHTp-OGpLs8dr6GuwvM-F7QNMYx2a2Phq4")
 USERNAME = os.environ.get('USERNAME', "Rifat_Cr7")
-API_KEY = os.environ.get('API_KEY', "Tm5ldlMwZWRpOC82WEFrL3dnazRNdz09")
+API_KEY = os.environ.get('API_KEY', "WHUwNkg1WnVOM1pBc0lKN0ZBeENWQT09")
 API_BASE_URL = "https://api.durianrcs.com/out/ext_api"
 
 # ============= প্রোজেক্ট সেটিংস =============
